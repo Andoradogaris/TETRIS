@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Fichiers divers",
+      "ColorIndex": -1
+    },
+    "3560b2d0-d5b0-4718-bb7a-98e817b35f44": {
+      "ProjectGuid": "3560b2d0-d5b0-4718-bb7a-98e817b35f44",
+      "DisplayName": "TETRIS",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

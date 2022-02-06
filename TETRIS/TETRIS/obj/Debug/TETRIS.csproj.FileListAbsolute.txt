@@ -1,0 +1,16 @@
+C:\Users\Théo\Desktop\TETRIS\TETRIS\bin\Debug\TETRIS.exe.config
+C:\Users\Théo\Desktop\TETRIS\TETRIS\bin\Debug\TETRIS.exe
+C:\Users\Théo\Desktop\TETRIS\TETRIS\bin\Debug\TETRIS.pdb
+C:\Users\Théo\Desktop\TETRIS\TETRIS\obj\Debug\TETRIS.csproj.AssemblyReference.cache
+C:\Users\Théo\Desktop\TETRIS\TETRIS\obj\Debug\MainWindow.g.cs
+C:\Users\Théo\Desktop\TETRIS\TETRIS\obj\Debug\App.g.cs
+C:\Users\Théo\Desktop\TETRIS\TETRIS\obj\Debug\TETRIS_MarkupCompile.cache
+C:\Users\Théo\Desktop\TETRIS\TETRIS\obj\Debug\TETRIS_MarkupCompile.lref
+C:\Users\Théo\Desktop\TETRIS\TETRIS\obj\Debug\MainWindow.baml
+C:\Users\Théo\Desktop\TETRIS\TETRIS\obj\Debug\TETRIS.g.resources
+C:\Users\Théo\Desktop\TETRIS\TETRIS\obj\Debug\TETRIS.Properties.Resources.resources
+C:\Users\Théo\Desktop\TETRIS\TETRIS\obj\Debug\TETRIS.csproj.GenerateResource.cache
+C:\Users\Théo\Desktop\TETRIS\TETRIS\obj\Debug\TETRIS.csproj.CoreCompileInputs.cache
+C:\Users\Théo\Desktop\TETRIS\TETRIS\obj\Debug\TETRIS.exe
+C:\Users\Théo\Desktop\TETRIS\TETRIS\obj\Debug\TETRIS.pdb
+C:\Users\Théo\Desktop\TETRIS\TETRIS\obj\Debug\TETRIS.csproj.SuggestedBindingRedirects.cache
